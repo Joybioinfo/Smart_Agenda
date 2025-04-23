@@ -3,7 +3,7 @@ from datetime import datetime
 import getpass
 
 # 默认设置
-DEFAULT_SAVE_DIR = os.path.expanduser("~/Documents/iA Writer/daily_logs")
+DEFAULT_SAVE_DIR = os.path.expanduser("~/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/daily_logs")
 TEMPLATE_DIR = "./templates"
 TEMPLATE_FILE = "daily_log_template.md"
 
