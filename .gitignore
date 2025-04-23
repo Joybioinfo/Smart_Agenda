@@ -22,4 +22,8 @@ out/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Log files
+daily_logs/
+*_work_log.md 
