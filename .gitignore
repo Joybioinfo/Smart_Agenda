@@ -27,3 +27,6 @@ Thumbs.db
 # Log files
 daily_logs/
 *_work_log.md 
+
+# media
+.mp3
